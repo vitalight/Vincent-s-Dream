@@ -4,7 +4,6 @@ Unreal course final project about dream, regret and redemption.
 
 
 
-* **Attention!** This repository use [Git LFS](<https://www.atlassian.com/git/tutorials/git-lfs#creating-new-repository>), hence you should **NOT** use the `Clone or download` button on this page to download.
 * For more detail, check out our [wiki](vitalight/Vincent-s-Dream/wiki).
 
 
