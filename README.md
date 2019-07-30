@@ -2,4 +2,4 @@
 
 Unreal course final project about dream, regret and redemption.
 
-* For more detail, check out our [wiki](vitalight/Vincent-s-Dream/wiki).
+* For more detail, check out our [wiki](https://github.com/vitalight/Vincent-s-Dream/wiki).
