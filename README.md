@@ -1,5 +1,23 @@
-# Vincent's Dream ![](https://img.shields.io/badge/unreal-4.22.2-blue.svg) ![](https://img.shields.io/badge/vsdream-1.0-green.svg)
+# Vincents' Dream![](https://img.shields.io/badge/unreal-4.22.2-blue.svg) 
 
-Unreal course final project about dream, regret and redemption.
+<img src="Documents/menu.png" />
 
-* For more detail, check out our [wiki](https://github.com/vitalight/Vincent-s-Dream/wiki).
+Vincent's Dream is a **puzzle game** about dream and redemption. In this game, you are going to help Vincent Van Gogh to accomplish his dreams about travling to Japan.
+
+This game is made using **Unreal Engine 4**, one of the most powerful game engine ever on earch. You can know more about the stories behind Vincent's magnificent painting and solve mistery along the way.
+
+Check out our [wiki](vitalight/Vincent-s-Dream/wiki) for detail.
+
+## Screenshots
+
+- Stories to be told
+
+<img src="Documents/ill.png"/>
+
+- Lost to be found
+
+<img src="Documents/drawer.png" />
+
+- Mistery to be solved
+
+<img src="Documents/clock.png" />
